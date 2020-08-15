@@ -49,7 +49,7 @@ The following usage guidelines must be adhered to (especially Step 2).<br> These
 7. Configure the env.gs file with the appropriate token as mentioned in the [documentation](https://docs.google.com/document/d/1zYid1Ei8TIXN1NPlI_dxAUcbUdDYtzD9XH4cNu6cb-k/edit#)<br><br>
 8. Register your form in [**FORMS.md**](https://github.com/EventHopper/Feedback/blob/master/FORMS.md). 
    - Add the form name hyperlinked to the doc containing the script.
-   - Add the number of the eventhopper-support token the form is using.
+   - Add the number of the eventhopper-support token the form is using.<br><br>
 9. You're now setup to script!
 
 ### Resources
