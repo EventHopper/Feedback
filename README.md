@@ -37,11 +37,12 @@ The following usage guidelines must be adhered to (especially Step 2).<br> These
     - `Under the option titled "Ignore file patterns (regex separated by ';')" insert the pattern "env.gs". `
     - `This will prevent auth token exposure. If the auth token is ever exposed it will automatically deauthenticate bringing our feedback system down until the tokens are replaced.`
 <br><br>
-3. Copy/paste the `template.gs` file into your Google Script Engine project.<br><br>
-4. Copy/paste the `env.dist.gs` file into your Google Script Engine project.<br><br>
-5. In the Google Script Engine Editor, make a copy of `env.dist.gs` and rename it to `env.gs`.<br><br>
-6. Configure the env.gs file with the appropriate token as mentioned in the [documentation](https://docs.google.com/document/d/1zYid1Ei8TIXN1NPlI_dxAUcbUdDYtzD9XH4cNu6cb-k/edit#)<br><br>
-7. You're now setup to script!
+3. Copy/paste the `template.gs` file into your Google Script Engine project. 
+4. Rename your file with the convention g[product].[relevant domain].gs (e.g. gsheets.apifeedback.gs)<br><br>
+5. Copy/paste the `env.dist.gs` file into your Google Script Engine project.<br><br>
+6. In the Google Script Engine Editor, make a copy of `env.dist.gs` and rename it to `env.gs`.<br><br>
+7. Configure the env.gs file with the appropriate token as mentioned in the [documentation](https://docs.google.com/document/d/1zYid1Ei8TIXN1NPlI_dxAUcbUdDYtzD9XH4cNu6cb-k/edit#)<br><br>
+8. You're now setup to script!
 
 ### Resources
 
