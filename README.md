@@ -37,3 +37,7 @@ The following usage guidelines must be adhered to (especially Step 2).<br> These
 5. In the Google Script Engine Editor, make a copy of `env.dist.gs` and rename it to `env.gs`.<br><br>
 6. Configure the env.gs file with the appropriate token as mentioned in the [documentation](https://docs.google.com/document/d/1zYid1Ei8TIXN1NPlI_dxAUcbUdDYtzD9XH4cNu6cb-k/edit#)<br><br>
 7. You're now setup to script!
+
+### Resources
+
+- [**Google Apps Script Fundamentals Colab**](https://developers.google.com/apps-script/quickstart/fundamentals-codelabs) 
