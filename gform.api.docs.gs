@@ -1,20 +1,12 @@
 function onFormSubmit(e) {
   
-//  var payload = {
-//    "title": e.namedValues["Give the Issue a Name"][0],
-//    "body": "Issue Sender: "+e.namedValues["Email Address"][0]+"\n\nIssue Description:\n"+e.namedValues["Describe the Issue"][0],
-//    "labels": [
-//      "external-issue"
-//    ]
-//  };
-  
   var ghToken = getSupportToken();
   
   var payload = {
-    "title": "Testing Issue Creation Script 2",
-    "body": "Issue Sender: TEST",
+    "title": e.namedValues["Give the Issue a Name"][0],
+    "body": "Issue Sender: "+e.namedValues["Email Address"][0]+"\n\nIssue Description:\n"+e.namedValues["Describe the Issue"][0],
     "labels": [
-      "external-issue"
+      "external-issue", "api-docs"
     ]
   };
   
