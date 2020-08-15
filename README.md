@@ -5,7 +5,7 @@ For customer-feedback, bug reports, metric collection and external issue trackin
 
 - [x] Build Google Forms Scripts to convert external forms into issues (achieved in Issue [**#3**](https://github.com/EventHopper/Feedback/issues/3))
 - [ ] Create template.gs file for contributers to start from
-- [ ] Create Google Form to Issue conversion formats:
+- [ ] Create Google Form to Issue string conversion formats:
   - [ ] _Bug Report_
   - [ ] _Feature Request_
   - [ ] _Abuse Report_
