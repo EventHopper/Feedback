@@ -6,6 +6,6 @@ This file contains the list of forms, their status and links.
 
 | Form           | Token #  |
 | ----------- | ----------- |
-| [**API Documentation Issue Report Form**](https://docs.google.com/forms/d/e/1FAIpQLSfnejFixSEK_IxcVH2MfdT5OhJU10cPh2k5qWq-wHvuUTUEhg/viewform)      | 1|
+| [**API Documentation Issue Report Form**](https://docs.google.com/spreadsheets/d/18ptwRlCOJqbuqx84Yr9hQpg2JhCzR8m6VBaptVlBtng/edit#gid=1509216240)      | 1|
 | [**Insert Here**]()   | 1        |
 
