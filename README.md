@@ -25,7 +25,8 @@ The following usage guidelines must be adhered to (especially Step 2).<br> These
 2. **VERY IMPORTANT: It is important that this step is carried out in every new EventHopper Google Script Engine Project.**<br> 
 >    - Click on the gear button next to the lightbulb in the top bar. 
 >    - Under the option titled `Ignore file patterns (regex separated by ';')` section type `env.gs`. 
->    - This will prevent the auth token exposure. If the auth token is ever exposed it will automatically deauthenticate bringing our feedback system down until the tokens are replaced.<br><br>
+>    - This will prevent the auth token exposure. If the auth token is ever exposed it will automatically deauthenticate bringing our feedback system down until the tokens are replaced.
+<br><br>
 3. Copy/paste the `template.gs` file into your Google Script Engine project.<br><br>
 4. Copy/paste the `env.dist.gs` file into your Google Script Engine project.<br><br>
 5. In the Google Script Engine Editor, make a copy of `env.dist.gs` and rename it to `env.gs`.<br><br>
