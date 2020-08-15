@@ -6,7 +6,7 @@ This repository is for customer-feedback, bug reports, metric collection and ext
 <br><br>
 
 ### **TODO :dart::**
-**Short Term**
+<br>**Short Term**
 - [x] Build Google Forms Scripts to convert external forms into issues (achieved in Issue [**#3**](https://github.com/EventHopper/Feedback/issues/3))
 - [ ] Create `template.gs` file for contributers to start from
 - [ ] Create Google Form to Issue string conversion formats:
@@ -15,7 +15,7 @@ This repository is for customer-feedback, bug reports, metric collection and ext
   - [ ] _Abuse Report_
 - [ ] Create labels for various project aspects (i.e. `flutter-app`, `iOS`, `Android`, `API` etc.)
 - [ ] Create labels for testing groups (i.e. `beta-release`, `stable-release` etc.)
-**Long Term**
+<br>**Long Term**
 - [ ] Use Github API to generate a monthly summary dashboard of issues
 - [ ] Create OAuth App to manage pipeline
 <br><br>
