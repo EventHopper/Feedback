@@ -3,6 +3,6 @@ For customer-feedback, bug reports, metric collection and external issue trackin
 
 **TODO:**
 
-- [x] Build Google Forms Scripts to convert external forms into issues
+- [ ] Build Google Forms Scripts to convert external forms into issues
 - [ ] Create labels for various project aspects (i.e. flutter-app, iOS, Android, Server etc.)
 - [ ] Create labels for testing groups (i.e. beta-release, stable-release etc.)
