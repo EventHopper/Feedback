@@ -1,21 +1,23 @@
 # Feedback
 For customer-feedback, bug reports, metric collection and external issue tracking in accordance with [GitHub's Standard on public issue tracking](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-an-issues-only-repository).
 
-**TODO:**
+**Cloning this repository is not encouraged if using for the purposes of scripting within the Google suite of products. You can use this repository to copy templates for scripts.**
+
+### **TODO:**
 
 - [x] Build Google Forms Scripts to convert external forms into issues (achieved in Issue [**#3**](https://github.com/EventHopper/Feedback/issues/3))
-- [ ] Create template.gs file for contributers to start from
+- [ ] Create `template.gs` file for contributers to start from
 - [ ] Create Google Form to Issue string conversion formats:
   - [ ] _Bug Report_
   - [ ] _Feature Request_
   - [ ] _Abuse Report_
-- [ ] Create labels for various project aspects (i.e. flutter-app, iOS, Android, Server etc.)
-- [ ] Create labels for testing groups (i.e. beta-release, stable-release etc.)
+- [ ] Create labels for various project aspects (i.e. `flutter-app`, `iOS`, `Android`, `API` etc.)
+- [ ] Create labels for testing groups (i.e. `beta-release`, `stable-release` etc.)
 
 
 ## Getting Started
 
-There is no need to clone this repository if using for the purposes of scripting within the Google suite of products. You will be able to push code to this repository using the Google Script Engine Github Extension (Pulling from the Google script editor not recomennded as this will flood your whole project with other scripts). In future, other applications for this repositry may necesitate the need for cloning.
+ You will be able to push code to this repository using the Google Script Engine Github Extension (Pulling from the Google script editor not recomennded as this will flood your script project with other unnecessary scripts).
 
 ### Prerequisites
 
