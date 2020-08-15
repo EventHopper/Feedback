@@ -1,6 +1,7 @@
 /*
-  Google Sheets Script for sheets linked with a Google Form which gets new form submissions from columns.
-  Requires env.gs file with getSupportToken() function.
+  Description: Google Sheets Script for sheets linked with a Google Form. 
+  Function: Gets new form submissions from columns after onSubmit form trigger callback.
+  Requirements: env.gs file with getSupportToken() function.
 */
 
 function onFormSubmit(e) {
