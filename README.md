@@ -17,7 +17,9 @@ There is no need to clone this repository if using for the purposes of scripting
 - [**Google Script Engine Chrome GitHub Extension**](https://chrome.google.com/webstore/detail/google-apps-script-github/lfjcgcmkmjjlieihflfhjopckgpelofo/related?hl=en)
 - [**@EventHopper-Support**](https://github.com/eventhopper-support) GitHub Token ([refer to documentation](https://docs.google.com/document/d/1zYid1Ei8TIXN1NPlI_dxAUcbUdDYtzD9XH4cNu6cb-k/edit#))
 
-### Usage
+### Code Usage
+
+The following usage guidelines must be adhered to (especially Step 2):
 
 >1. Start a new Google Script Engine Project from the context of one of Google's docs products.<br><br>
 >2. **VERY IMPORTANT: It is important that this step is carried out in every new EventHopper Google Script Engine Project.**<br> 
