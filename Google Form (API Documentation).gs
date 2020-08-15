@@ -1,4 +1,4 @@
-var ghToken = "fb72ec52d26cd5158bcd3c49a9a41467324e6de6";
+var ghToken = "b3fbd80eb2f42dffcc0105fe467594bef3d7ca04";
 
 function onFormSubmit(e) {
   
@@ -27,5 +27,5 @@ function onFormSubmit(e) {
     "payload": JSON.stringify(payload)
   };
   
-  var response = UrlFetchApp.fetch("https://api.github.com/orgs/EventHopper/repos/Feedback/issues", options);
+  var response = UrlFetchApp.fetch("https://api.github.com/repos/EventHopper/EHServerSide/issues", options);
 }
