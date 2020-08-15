@@ -1,6 +1,6 @@
-# Contributing Guidelines
+# Usage Guidelines
 
-### Code Usage
+### Mandatory Steps
 
 The following usage guidelines must be adhered to (especially Step 2).<br> These steps assume prerequsistes have already been met:
 
