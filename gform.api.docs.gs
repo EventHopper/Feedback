@@ -1,5 +1,3 @@
-var ghToken = "b3fbd80eb2f42dffcc0105fe467594bef3d7ca04";
-
 function onFormSubmit(e) {
   
 //  var payload = {
@@ -10,8 +8,10 @@ function onFormSubmit(e) {
 //    ]
 //  };
   
+  var ghToken = getSupportToken();
+  
   var payload = {
-    "title": "Testing Issue Creation Script",
+    "title": "Testing Issue Creation Script 2",
     "body": "Issue Sender: TEST",
     "labels": [
       "external-issue"
@@ -27,5 +27,5 @@ function onFormSubmit(e) {
     "payload": JSON.stringify(payload)
   };
   
-  var response = UrlFetchApp.fetch("https://api.github.com/repos/EventHopper/EHServerSide/issues", options);
+  var response = UrlFetchApp.fetch("https://api.github.com/repos/EventHopper/Feedback/issues", options);
 }
