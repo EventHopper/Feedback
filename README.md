@@ -19,13 +19,13 @@ There is no need to clone this repository if using for the purposes of scripting
 
 ### Usage
 
-1. Start a new Google Script Engine Project from the context of one of Google's docs products.<br><br>
-2. **VERY IMPORTANT: It is important that this step is carried out in every new EventHopper Google Script Engine Project.**<br> 
-    - Click on the gear button next to the lightbulb in the top bar. 
-    - Under the option titled `Ignore file patterns (regex separated by ';')` section type `env.gs`. 
-    - This will prevent the auth token exposure. If the auth token is ever exposed it will automatically deauthenticate bringing our feedback system down until the tokens are replaced.<br><br>
-3. Copy/paste the `template.gs` file into your Google Script Engine project.<br><br>
-4. Copy/paste the `env.dist.gs` file into your Google Script Engine project.<br><br>
-5. In the Google Script Engine Editor, make a copy of `env.dist.gs` and rename it to `env.gs`.<br><br>
-6. Configure the env.gs file with the appropriate token as mentioned in the [documentation](https://docs.google.com/document/d/1zYid1Ei8TIXN1NPlI_dxAUcbUdDYtzD9XH4cNu6cb-k/edit#)<br><br>
-7. You're now setup to script!
+>1. Start a new Google Script Engine Project from the context of one of Google's docs products.<br><br>
+>2. **VERY IMPORTANT: It is important that this step is carried out in every new EventHopper Google Script Engine Project.**<br> 
+>    - Click on the gear button next to the lightbulb in the top bar. 
+>    - Under the option titled `Ignore file patterns (regex separated by ';')` section type `env.gs`. 
+>    - This will prevent the auth token exposure. If the auth token is ever exposed it will automatically deauthenticate bringing our feedback system down until the tokens are >replaced.<br><br>
+>3. Copy/paste the `template.gs` file into your Google Script Engine project.<br><br>
+>4. Copy/paste the `env.dist.gs` file into your Google Script Engine project.<br><br>
+>5. In the Google Script Engine Editor, make a copy of `env.dist.gs` and rename it to `env.gs`.<br><br>
+>6. Configure the env.gs file with the appropriate token as mentioned in the [documentation](https://docs.google.com/document/d/1zYid1Ei8TIXN1NPlI_dxAUcbUdDYtzD9XH4cNu6cb->k/edit#)<br><br>
+>7. You're now setup to script!
