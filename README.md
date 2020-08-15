@@ -18,6 +18,7 @@ This repository is for customer-feedback, bug reports, metric collection and ext
 - [ ] Create labels for testing groups (i.e. `beta-release`, `stable-release` etc.)
 
 <br>**Long Term**
+- [ ] Integrate with some form of passive in-app bug reporting tool like [**Sentry.io**](https://sentry.io/welcome/)
 - [ ] Use Github API to generate a monthly summary dashboard of issues
 - [ ] Create OAuth App to manage pipeline
 <br><br>
