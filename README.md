@@ -19,7 +19,7 @@ There is no need to clone this repository if using for the purposes of scripting
 
 ### Code Usage
 
-The following usage guidelines must be adhered to (especially Step 2):
+The following usage guidelines must be adhered to (especially Step 2). This assumes all prerequsistes have already been met:
 
 >1. Start a new Google Script Engine Project from the context of one of Google's docs products.<br><br>
 >2. **VERY IMPORTANT: It is important that this step is carried out in every new EventHopper Google Script Engine Project.**<br> 
