@@ -16,13 +16,13 @@ This repository is for customer-feedback, bug reports, metric collection and ext
 - [ ] Create labels for various project aspects (i.e. `flutter-app`, `iOS`, `Android`, `API` etc.)
 - [ ] Create labels for testing groups (i.e. `beta-release`, `stable-release` etc.)
 **Long Term**
-- [ ] Use github API to generate a monthly summary dashboard of issues
+- [ ] Use Github API to generate a monthly summary dashboard of issues
 - [ ] Create OAuth App to manage pipeline
 <br><br>
 
 ## Getting Started
 
- You will be able to push code to this repository using the Google Script Engine Github Extension (Pulling from the Google script editor not recomennded as this will flood your script project with other unnecessary scripts).
+You will be able to push code to this repository using the Google Script Engine Github Extension (Pulling from the Google script editor not recomennded as this will flood your script project with other unnecessary scripts).
 
 ### Prerequisites
 
