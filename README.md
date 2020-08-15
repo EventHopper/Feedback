@@ -1,7 +1,9 @@
 # Feedback :speech_balloon:
-For customer-feedback, bug reports, metric collection and external issue tracking in accordance with [GitHub's Standard on public issue tracking](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-an-issues-only-repository).<br>
+For customer-feedback, bug reports, metric collection and external issue tracking in accordance with [GitHub's Standard on public issue tracking](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-an-issues-only-repository).<br><br>
 
->**Cloning this repository is discouraged if using for the purposes of scripting within the Google suite of products.<br>You can use this repository to copy templates for scripts and transfer actionable issues to relevant repositories.**<br><br>
+>**Cloning this repository is discouraged if using for the purposes of scripting within the Google suite of products.<br>You can use this repository to copy templates for scripts and transfer actionable issues to relevant repositories.**
+
+<br><br>
 
 ### **TODO :dart::**
 
