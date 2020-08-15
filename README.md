@@ -34,7 +34,7 @@ You will be able to push code to this repository using the Google Script Engine 
 
 ### Code Usage
 
-Review [**CONTRIBUTING.md**](https://github.com/EventHopper/Feedback/blob/master/CONTRIBUTING.md)
+Review [**USAGE.md**](https://github.com/EventHopper/Feedback/blob/master/USAGE.md)
 
 ### Resources
 
