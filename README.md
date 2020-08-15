@@ -41,3 +41,6 @@ The following usage guidelines must be adhered to (especially Step 2).<br> These
 ### Resources
 
 - [**Google Apps Script Fundamentals Colab**](https://developers.google.com/apps-script/quickstart/fundamentals-codelabs) 
+
+### Notes
+- The .gs files are basically specialized javascript run from the script editor on [Google's V8 Runtime](https://developers.google.com/apps-script/guides/v8-runtime)
