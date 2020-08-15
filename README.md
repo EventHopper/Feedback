@@ -13,7 +13,7 @@ For customer-feedback, bug reports, metric collection and external issue trackin
   - [ ] _Abuse Report_
 - [ ] Create labels for various project aspects (i.e. `flutter-app`, `iOS`, `Android`, `API` etc.)
 - [ ] Create labels for testing groups (i.e. `beta-release`, `stable-release` etc.)
-- [ ] Use github API to generate a monthly summary dashboard of issues
+- [ ] Use github API to generate a monthly summary dashboard of issues (later stage)
 
 
 ## Getting Started
