@@ -1,10 +1,16 @@
 function onFormSubmit(e) {
   
   var ghToken = getSupportToken();
-  
+  var result = e.values;
+  var email = result[1];
+  var title = result[2];
+  var details = result[3];
   var payload = {
-    "title": e.namedValues["Give the Issue a Name"][0],
-    "body": "Issue Sender: "+e.namedValues["Email Address"][0]+"\n\nIssue Description:\n"+e.namedValues["Describe the Issue"][0],
+    "title": title,
+    "body": "Issue Sender: "
+    + email
+    +"\n\nIssue Description:\n"
+    + details,
     "labels": [
       "external-issue", "api-docs"
     ]
