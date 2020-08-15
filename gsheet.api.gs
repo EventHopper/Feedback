@@ -1,3 +1,7 @@
+/*
+  Google Sheets Script for sheets linked with a Google Form which gets new form submissions from columns.
+*/
+
 function onFormSubmit(e) {
   
   var ghToken = getSupportToken();
