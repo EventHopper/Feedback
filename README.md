@@ -9,6 +9,7 @@ This repository is for customer-feedback, bug reports, metric collection and ext
 **Short Term**
 
 - [x] Build Google Forms Scripts to convert external forms into issues (achieved in Issue [**#3**](https://github.com/EventHopper/Feedback/issues/3))
+- [ ] Create guided walkthrough for USAGE.md
 - [ ] Create `template.gs` file for contributers to start from
 - [ ] Create "Google Form to Issue" string conversion formats:
   - [ ] _Bug Report_
